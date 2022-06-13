@@ -2,10 +2,12 @@
 
 *Dados fictícios
 
-*Técnicas DS: Detecção de Outliers (Z-Score), Seleção de Features (F-Classif) e Normalização.
+Tema: Análise e Modelagem de Dados para classificação do usuário interessado no produto.
 
-*Linguagem: Python
+Técnicas DS: Detecção de Outliers (Z-Score), Seleção de Features (F-Classif) e Normalização.
 
-*Modelos de ML usados: Regressão Logística
+Linguagem Python(Colab).
+
+Modelos de ML usados: Regressão Logística.
 
 Para ver o projeto no Colab: https://colab.research.google.com/drive/1JjBUG-hNrtbLKf21ZPDKyX1CogyOH41P?usp=sharing
